@@ -13,6 +13,7 @@ i. Which customers are churning?
 ii. Why are they churning?
 
 -> A prototype of ETL pipeline to analyze all relevant customer data and develop focused customer retention programs
+
 -> To prepare a single source of truth, i.e., Structing all the best quality of data in one place.
 
 
