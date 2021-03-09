@@ -10,6 +10,7 @@ In this case, we need to understand “how to reduce churn?” To do that, we’
 two main questions:
 
 i. Which customers are churning?
+
 ii. Why are they churning?
 
 -> A prototype of ETL pipeline to analyze all relevant customer data and develop focused customer retention programs
